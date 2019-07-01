@@ -1,2 +1,1 @@
-# ELEC3720
-Programmable Logic Design
+# ELEC4700
